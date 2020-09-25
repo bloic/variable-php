@@ -18,7 +18,7 @@
     if ($watch == false){ 
     echo "seen:","not seen", "<br>"; }
     echo "Year: ", $year, "<br>";
-    echo "Note: ", $note, "br"; 
+    echo "Note: ", $note, <"br">; 
     ?>
 </body>
 </html>
